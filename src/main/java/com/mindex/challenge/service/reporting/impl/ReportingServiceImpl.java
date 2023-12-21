@@ -52,7 +52,7 @@ public class ReportingServiceImpl implements ReportingService {
 
     /**
      * Recursive function to generate a set of employee ids that are reports of a given employee.
-     * @param employee The employee to generate the set of reports for
+     * @param employeeId The employee id to generate the set of reports for
      * @return A set of employee ids that report to a given employee
      */
     private Set<String> getReportsForEmployee(String employeeId)

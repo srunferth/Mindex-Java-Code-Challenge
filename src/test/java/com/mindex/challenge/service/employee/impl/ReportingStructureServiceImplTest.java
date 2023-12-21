@@ -4,7 +4,6 @@ package com.mindex.challenge.service.employee.impl;
 import com.mindex.challenge.dao.EmployeeRepository;
 import com.mindex.challenge.data.Employee;
 import com.mindex.challenge.data.ReportingStructure;
-import com.mindex.challenge.service.reporting.ReportingService;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
