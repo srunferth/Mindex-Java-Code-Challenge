@@ -1,4 +1,4 @@
-package com.mindex.challenge.service;
+package com.mindex.challenge.service.employee;
 
 import com.mindex.challenge.data.Employee;
 
